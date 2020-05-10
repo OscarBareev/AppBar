@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">AppBar</string>
+    <string name="Settings">Settings</string>
+    <string name="noteBook">Записная книжка</string>
+    <string name="saveBtn">Сохранить</string>
+    <string name="dataSaved">данные сохранены</string>
+    <string name="checkboxes">Чекбоксы</string>
+    <string name="addMoney">Ввод денег</string>
+    <string name="payInformation">Информация об оплате</string>
+    <string name="ok">OK</string>
+    <string name="fromCard">С банковской карты</string>
+    <string name="fromPhone">С мобильного телефона</string>
+    <string name="byCash">Наличными по адресу</string>
+    <string name="ShowAddress">Показать адрес</string>
+    <string name="spinner">Спиннер</string>
+
+    <string-array name="countries">
+        <item>Россия</item>
+        <item>Украина</item>
+        <item>Белоруссия</item>
+    </string-array>
+    <string-array name="r_cities">
+        <item>Москва</item>
+        <item>Санкт-Петербург</item>
+        <item>Казань</item>
+    </string-array>
+    <string-array name="u_cities">
+        <item>Киев</item>
+        <item>Одесса</item>
+        <item>Харьков</item>
+    </string-array>
+    <string-array name="b_cities">
+        <item>Минск</item>
+        <item>Гомель</item>
+        <item>Торжок</item>
+    </string-array>
+
+
+    <string name="cleanButton">Очистить</string>
+    <string name="okText">ОК</string>
+    <string name="mailText">E-mail</string>
+    <string name="mailTitle">Электронная почта</string>
+    <string name="nameText">Введите имя</string>
+    <string name="nameTitle">Имя пользователя</string>
+    <string name="addData">Введите данные!</string>
+    <string name="subscribe">Подписка на рассылку успешно оформлена для пользователя </string>
+    <string name="yourMail"> на электронный адрес </string>
+    <string name="forms">Формы</string>
+
+    <string name="bp">BP</string>
+    <string name="healthSystem">Комплексная система мониторинга здоровья</string>
+    <string name="nameHint">ФИО</string>
+    <string name="ageHint">Возраст</string>
+    <string name="save">Сохранить</string>
+    <string name="pressureButton">Давление</string>
+    <string name="healthIndex">Жизненные показатели</string>
+    <string name="topPressureHint">Вверхнее давление</string>
+    <string name="lowPressureHint">Нижнее давление</string>
+    <string name="PulsHint">Пульс</string>
+    <string name="tachycardia">Тахикардия</string>
+    <string name="weight">Вес</string>
+    <string name="stepNumber">Количество шагов</string>
+    <string name="addCorrect">Введите корректные данные</string>
+    <string name="Saved">Сохранено</string>
+    <string name="needData">Заполните данные</string>
+    <string name="date">Дата: "</string>
+    <string name="time">Время: "</string>
+    <string name="health">Здоровье</string>
+</resources>
